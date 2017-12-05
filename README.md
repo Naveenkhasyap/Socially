@@ -1,0 +1,2 @@
+# Socially
+An Electron app
